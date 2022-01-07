@@ -1,0 +1,32 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.navbar-edited {
+	background-color: #001f3f!important;
+}
+.navbar-brand {
+	color: white;
+}
+a.nav-item-edited {
+	color: #7FDBFF;
+}
+a.nav-item-edited:hover {
+	color: #0074D9;
+}
+.carousel-edited {
+	height: 85vh;
+	width: 100%;
+}
+.carousel-text-edited h5, .carousel-text-edited p{
+	color: #001f3f;
+}
+.carousel-text-edited h5 {
+	font-size: 45px;
+	font-weight: 700;
+}
+.carousel-text-edited p {
+	font-size: 30px;
+	font-weight: 500;
+}
