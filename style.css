@@ -30,3 +30,54 @@ a.nav-item-edited:hover {
 	font-size: 30px;
 	font-weight: 500;
 }
+.about-us .title h1, .title h1 {
+	color: #001f3f;
+}
+.about-us .title p {
+	color: #0074D9;
+}
+.about-us-image {
+	height: 350px;
+}
+.unbackground-button {
+	background: transparent;
+	color: #0074D9;
+	border: 2px solid #0074D9;
+	padding: 12px 20px;
+	text-decoration: none;
+	transition: .3s;
+	font-weight: 500;
+	font-size: 20px;
+	border-radius: 30px;
+}
+.unbackground-button:hover{
+	background: #0074D9;
+	color: white;
+}
+
+.our-team {
+	margin-top: 50px;
+}
+.our-team .title h1, .our-team h5 {
+	color: #001f3f;
+}
+.our-team img {
+	height: 300px;
+}
+.our-team p {
+	color: #0074D9;
+}
+
+.send-idea {
+	background: #7FDBFF;
+	width: 600px;
+	border-radius: 10px;
+	margin-left: 400px;
+}
+.developer {
+	margin-left: 100px;	
+}
+.button {
+	margin-left: 240px;
+	margin-top: 40px;
+}
